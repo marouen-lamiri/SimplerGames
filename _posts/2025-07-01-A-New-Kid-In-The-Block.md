@@ -2,9 +2,9 @@
 layout: post
 title: A new kid in the block
 subtitle: Simpler Games, a new player
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: /assets/img/SimplerGames.png
+thumbnail-img: /assets/img/SimplerGames.png
+share-img: /assets/img/SimplerGames.png
 tags: [Press Release]
 author: Marouen Lamiri
 ---
